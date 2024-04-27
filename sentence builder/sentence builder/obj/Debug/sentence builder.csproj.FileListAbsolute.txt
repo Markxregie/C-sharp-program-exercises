@@ -1,0 +1,7 @@
+C:\Users\user\Documents\oop assign\practice\sentence builder\sentence builder\obj\Debug\sentence builder.csproj.AssemblyReference.cache
+C:\Users\user\Documents\oop assign\practice\sentence builder\sentence builder\obj\Debug\sentence builder.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\oop assign\practice\sentence builder\sentence builder\bin\Debug\sentence builder.exe.config
+C:\Users\user\Documents\oop assign\practice\sentence builder\sentence builder\bin\Debug\sentence builder.exe
+C:\Users\user\Documents\oop assign\practice\sentence builder\sentence builder\bin\Debug\sentence builder.pdb
+C:\Users\user\Documents\oop assign\practice\sentence builder\sentence builder\obj\Debug\sentence builder.exe
+C:\Users\user\Documents\oop assign\practice\sentence builder\sentence builder\obj\Debug\sentence builder.pdb
