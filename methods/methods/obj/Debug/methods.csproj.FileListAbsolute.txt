@@ -1,0 +1,7 @@
+C:\Users\user\Documents\oop assign\practice\methods\methods\bin\Debug\methods.exe.config
+C:\Users\user\Documents\oop assign\practice\methods\methods\bin\Debug\methods.exe
+C:\Users\user\Documents\oop assign\practice\methods\methods\bin\Debug\methods.pdb
+C:\Users\user\Documents\oop assign\practice\methods\methods\obj\Debug\methods.csproj.AssemblyReference.cache
+C:\Users\user\Documents\oop assign\practice\methods\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\oop assign\practice\methods\methods\obj\Debug\methods.exe
+C:\Users\user\Documents\oop assign\practice\methods\methods\obj\Debug\methods.pdb
